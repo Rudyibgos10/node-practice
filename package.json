@@ -1,0 +1,12 @@
+{
+  "name": "practice",
+  "version": "1.0.0",
+  "description": "practicing node js for backend",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "rudypogi",
+  "license": "ISC"
+}
